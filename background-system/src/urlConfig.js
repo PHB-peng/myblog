@@ -1,0 +1,1 @@
+module.export = {server_URL : 'http://localhost:7001'}
